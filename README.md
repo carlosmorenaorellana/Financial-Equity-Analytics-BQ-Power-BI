@@ -1,6 +1,6 @@
 # Automated Financial Data Pipeline and Analysis
 
-![Dashboard Screenshot](./docs/dashboard_screenshots/growth_&_margins.png)
+![Dashboard Screenshot](./docs/dashboards_screenshots/growth_&_margins.png)
 
 ## Project Overview
 This project provides a comprehensive financial analysis framework for evaluating companies with market capitalizations under €10 billion (excluding Financials and Real Estate sectors). The goal is to identify investment candidates based on solid fundamentals, ROIC, and Free Cash Flow generation.
@@ -9,9 +9,9 @@ The project follows an **ELT (Extract, Load, Transform)** paradigm, utilizing **
 
 ## Visualizations
 Check out the interactive dashboards:
-- [Growth & Margins](./docs/dashboard_screenshots/growth_&_margins.png)
-- [ROIC & Capital Management](./docs/dashboard_screenshots/roic_&_capital_management.png)
-- [Costs & Debt](./docs/dashboard_screenshots/costs_&_debt.png)
+- [Growth & Margins](./docs/dashboards_screenshots/growth_&_margins.png)
+- [ROIC & Capital Management](./docs/dashboards_screenshots/roic_&_capital_management.png)
+- [Costs & Debt](./docs/dashboards_screenshots/costs_&_debt.png)
 
 ## 📊 Detailed Documentation & Analysis
 For a deep dive into the technical implementation (SQL queries, data cleaning) and the investment insights derived from the dashboards, please refer to the Jupyter Notebook:
