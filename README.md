@@ -9,14 +9,14 @@ The project follows an **ELT (Extract, Load, Transform)** paradigm, utilizing **
 
 ## Visualizations
 Check out the interactive dashboards:
-- [Growth & Margins](./docs/dashboards_screenshots/growth_&_margins.png)
-- [ROIC & Capital Management](./docs/dashboards_screenshots/roic_&_capital_management.png)
-- [Costs & Debt](./docs/dashboards_screenshots/costs_&_debt.png)
+- [Growth & Margins](automated_financial_data_pipeline_and_analysis/dashboards_screenshots/growth_&_margins.png)
+- [ROIC & Capital Management](./docs/dashboards_screenshots/roic_&_capital_allocation.png)
+- [Costs & Debt]([./docs/dashboards_screenshots/costs_&_debt.png](https://github.com/carlosmorenaorellana/Automated_Financial_Data_Pipeline_and_Analysis/blob/main/automated_financial_data_pipeline_and_analysis/dashboards_screenshots/costs_%26_debt.png))
 
 ## 📊 Detailed Documentation & Analysis
 For a deep dive into the technical implementation (SQL queries, data cleaning) and the investment insights derived from the dashboards, please refer to the Jupyter Notebook:
 
-👉 **[View Detailed Analysis in Colab/GitHub](https://github.com/carlosmorenaorellana/Automated_Financial_Data_Pipeline_and_Analysis/blob/main/Analysis_Final.ipynb)**
+👉 **[View Detailed Analysis in Colab/GitHub](https://github.com/carlosmorenaorellana/Automated_Financial_Data_Pipeline_and_Analysis/blob/main/Documentation.ipynb)**
 
 ## Conclusion & Recommendations
 Based on the quantitative analysis, three companies have been identified for further qualitative investigation based on their growth, valuation, and capital allocation strategies:
